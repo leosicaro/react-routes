@@ -1,3 +1,12 @@
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
 # React Router
 
 En este proyecto se muestra el uso de React Router para la navegación entre páginas. Crearemos el portfolio de un desarrollador web, con una página de inicio, una página de proyectos y una página de currículum.
@@ -47,3 +56,4 @@ Importaremos estos archivos en los componentes `Projects` y `Resume` para mostra
 ## Referencias
 
 - [Tutorial React Router](https://reactrouter.com/en/6.22.1/start/tutorial)
+
